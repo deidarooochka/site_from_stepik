@@ -440,6 +440,7 @@ transition: 0.3s;
   .provide_inner{
     flex-wrap: wrap;
     justify-content: center;
+    padding-top: 100px;
   }
   .provide_item{
     /* max-width: 300px; */
@@ -499,9 +500,17 @@ transition: 0.3s;
   max-width: 340px;
 }
 .team_inner{
+  padding-top: 100px;
   flex-wrap: wrap;
+}
+.team{
+  padding-bottom: 60px;
+  height: auto;
 }
 .team_item{
   width: 340px;
+}
+.team_icon-box{
+  padding-bottom: 30px;
 }
 }
