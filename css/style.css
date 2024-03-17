@@ -380,7 +380,7 @@ transition: 0.3s;
 
 /*Адаптивность*/
 /* Для планшета */
-@media screen and (max-width:769px){
+@media screen and (max-width:769px), (max-width: 1025px){
   .container{
     width: 768px;
   }
@@ -417,7 +417,7 @@ transition: 0.3s;
 }
 
 /* Для айфона */
-@media screen and (max-width:376px){
+@media screen and (max-width:376px), (max-width: 415){
   .container{
     width: 375px;
   }
