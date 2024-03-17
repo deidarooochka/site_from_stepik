@@ -417,7 +417,7 @@ transition: 0.3s;
 }
 
 /* Для айфона */
-@media screen and (max-width:376px), (max-width: 415px){
+@media screen and (max-width:376px), (max-width: 431px){
   .container{
     width: 375px;
   }
