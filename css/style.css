@@ -380,7 +380,7 @@ transition: 0.3s;
 
 /*Адаптивность*/
 /* Для планшета */
-@media screen and (max-width:769px), (max-width: 1025px){
+@media screen and (max-width:769px), (max-width: 1081px){
   .container{
     width: 768px;
   }
